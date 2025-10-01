@@ -392,5 +392,13 @@ SUM(REV) OVER(ORDER BY DATE) AS CUMULATIVE_REV
 FROM CTE
 GROUP BY 1;
 ```
+### python
+```python
+print("ORDERS Table:")
+print(orders.head(), "\n")
+
+print("ORDER_DETAILS Table:")
+print(order_details.head(), "\n")
+```
 
 
