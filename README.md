@@ -7,7 +7,7 @@ This project analyzes pizza sales data using **SQL** to generate insights into r
 - `Revenue Analysis:`Track and analyze total revenue from orders by pizza category, type, and size.
 - `Customer Behavior: `Identify purchasing patterns like average order value and multi-pizza orders.
 - `Category Performance:` Identify the best-performing pizza categories and sizes.
-- `Cumulative Trends: Track revenue growth over time for better business forecasting.`
+- `Cumulative Trends:` Track revenue growth over time for better business forecasting.
 
 ## Key Features:
 - `Revenue Calculation:` Summarizes total revenue across different dimensions like size and category.
