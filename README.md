@@ -53,6 +53,16 @@ CTE
 GROUP BY 1
 ORDER BY 2 ASC;
 ```
+## 📊 Pizza Size Distribution
+
+| Pizza Size | Total Orders |
+|------------|--------------|
+| XXL        | 28           |
+| XL         | 552          |
+| S          | 14,403       |
+| M          | 15,635       |
+| L          | 18,956       |
+
 ### CS2: Mean order amount.
 ```sql
 SELECT ROUND(SUM(od.quantity * p.price) / COUNT(DISTINCT od.order_id), 2) AS avg_order_value
