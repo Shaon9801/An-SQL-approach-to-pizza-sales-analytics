@@ -89,7 +89,7 @@ WHERE RK<=3;
 | Supreme  | The Calabrese Pizza                       | 15,934.25 | 3    |
 | Veggie   | The Green Garden Pizza                     | 13,955.75 | 1    |
 | Veggie   | The Mediterranean Pizza                   | 15,360.50 | 2    |
-| Veggie   | The Spinach Pesto Pizza                   | 15,5
+| Veggie   | The Spinach Pesto Pizza                   | 15,596.00 | 3    |
 
 ### CS3: Mean order amount.
 ```sql
