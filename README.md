@@ -24,9 +24,15 @@ This project analyzes pizza sales data using **SQL** to generate insights into r
    - `Trend Analysis:` Measures sales growth over time for informed decision-making.
   
    ## Analysis With SQL(MYSQL)
-```mysql
+   ### first file
+```sql
 DESCRIBE ORDER_DETAILS;
 DESCRIBE ORDERS;
-DESCRIBE PIZZAS;
-DESCRIBE PIZZA_TYPES;
+DESCRIBE pizza_types;
+DESCRIBE pizzas;
+
+SELECT * FROM ORDERS;
+SELECT * FROM ORDER_DETAILS;
+SELECT * FROM PIZZAS;
+SELECT * FROM PIZZA_TYPES;
 ```
