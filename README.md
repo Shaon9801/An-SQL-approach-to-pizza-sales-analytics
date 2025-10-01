@@ -1,2 +1,6 @@
 # An-SQL-approach-to-pizza-sales-analytics
-This sales analysis approach enabled a deeper understanding of revenue performance patterns and offered actionable insights for optimizing business strategies.
+## Project Title:
+## 'Pizza Sales Analytics:' A SQL Approach to Revenue and Customer Behavior.
+This project analyzes pizza sales data using SQL to generate insights into revenue, customer behavior, and sales trends. It aims to help businesses understand sales performance, customer preferences, and operational efficiency.
+
+
